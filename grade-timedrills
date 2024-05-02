@@ -8,8 +8,10 @@ echo "| |  | | |/ /| |  | | |/ /| |  | | |/ /| |  | |"
 echo "| |/\| |    \| |/\| |    \| |/\| |    \| |/\| |"
 echo "\  /\  / |\  \  /\  / |\  \  /\  / |\  \  /\  /"
 echo " \/  \/\_| \_/\/  \/\_| \_/\/  \/\_| \_/\/  \/ "
-                                                                                                                                                       
 
+echo " "
+echo "TENANG AMAN DARI MENTOR.."
+                                                                                                                                                      
 # Function to print progress bar
 print_progress() {
     percentage=$((current_step * 100 / total_steps))
